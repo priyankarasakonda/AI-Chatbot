@@ -1,0 +1,247 @@
+{
+   "intents":[
+      {
+         "tag": "greetings",
+         "patterns":[
+             "Hello",
+             "hey",
+             "Hi",
+             "Hey there",
+             "good day",
+             "Greetings",
+             "what's up?",
+             "how is it going?",
+             "Hey, what's up?",
+             "Hello, how are you doing?",
+             "Howdy",
+             "Greetings",
+             "Yo",
+             "Hi there",
+             "Nice to meet you",
+             "Pleased to meet you",
+             "Hi, how are you?",
+             "Hey, how's it going?",
+             "Good to see you",
+             "Long time no see"
+       ],
+         "responses":[
+            "Hello!",
+            "Hey!",
+            "Hello! Nice to meet you",
+            "What can I do for you?",
+            "Hello there! How can I assist you today?",
+            "Hey, how can I help you today?"
+            
+         ]
+      },
+      {
+         "tag": "name",
+         "patterns":[
+            "What is your name",
+            "name",
+            "what's your name",
+            "Who are you",
+            "what should I call you",
+            "Tell me something about you"
+         ],
+         "responses":[
+            "You can call me Ask Me",
+            "I'm Ask Me",
+            "I'm Ask Me your virtual assistant",
+            "I'm Ask Me Chatbot to help you."
+         ]
+      },
+      {
+         "tag": "About",
+         "patterns":[
+            "Tell me something about the company",
+            "I want to know about the company",
+            "Want to know about the company",
+            "Can you share your company information",
+            "May I know more about you",
+            "What me something about your organization",
+            "Could you please mention what your company is about",
+            "Are you service based company or product based company?"
+         ],
+         "responses":[
+            "Curio technologies is a global IT service provider founded to assist corporations in better managing their operation, through a cost-effective combination of professional services and technology. \n We are headquartered in Ontario, Canada. Curio has over 10 years of experience in Design, Technology, and Consulting. \nWe take pride in delivering Intelligent Technology Consulting and Engaging Experiences for clients all over the World and also offer process outsourcing services. \nCurio is a company specializing in professional services, IT Consulting Services Software & Enterprise Application Development, Data Warehousing, Database development, and Software Testing services."
+         ]
+      },
+      {
+         "tag": "Services",
+         "patterns":[
+            "what services are available",
+            "how many services are there in this organization",
+            "which are the services that you provide?",
+            "Give me the service list"
+         ],
+         "responses":[
+            "Curio technologies is a global IT service provider and was founded to assist corporations in better managing their operation, through a cost-effective combination of professional services and technology. \nWe are offering \n\nIT Consulting, \n\nSoftware Development, \n\nData Warehousing, \n\nSoftware Testing, \n\nCloud Management, \n\nCloud Migration, \n\nCloud Security, \n\nCloud Consulting"
+         ]
+      },
+      {
+         "tag": "IT Consulting",
+         "patterns":[
+          "Can you tell me more about IT Consulting",
+            "Can you share information about IT Consulting service",
+            "Want to know about the IT Consulting service"
+         ],
+         "responses":[
+            "We design winning strategies to meet this need. \nWe deliver value and performance through our mastery of digital advances, information insight, and business transformation."
+         ]
+      },
+      {
+         "tag": "Software Development",
+         "patterns":[
+          "Which are the service you are providing in Software development",
+          "Can you tell me more about Software Development",
+            "Can you share information about Software Development service",
+            "Want to know about the Software Development service",
+            "What technology stack you are using for software development?",
+            "Which type of product that you are working on?"
+         ],
+         "responses":[
+            "We offers complete range of development services to cater to the needs of the industries that it focuses on. \nWe also ensures successful deployment of its business applications big data product platforms through its range of implementation services."
+         ]
+      },
+      {
+         "tag": "Data Warehousing",
+         "patterns":[
+          "Can you tell me more about Data Warehousing",
+            "Can you share information about Data Warehousing service",
+            "Want to know about the Data Warehousing service",
+            "What is Data Warehousing?",
+            "Which kind of technology you are using for data warehousing?"
+         ],
+         "responses":[
+            "Following best practices in data warehousing can lead up to a 50% decrease in cost. \nWe provides Services to help companies gain control over their existing data with cost-effective database cleansing and enrichment."
+         ]
+      },
+      {
+         "tag": "Software Testing",
+         "patterns":[
+          "Can you tell me more about Software Testing",
+            "Can you share information about Software Testing service",
+            "Want to know about the Software Testing service",
+            "what are the technology you are using for software testing?"
+         ],
+         "responses":[
+            "Our QA lab has a full range of outsourcing software testing services. \nWe can provide you with any type of manual and automated software testing, dedicated testing teams, \nQA and QC support in IT outsourcing software testing projects, and more."
+         ]
+      },
+      {
+         "tag": "Cloud Management",
+         "patterns":[
+          "Can you tell me more about Cloud Management",
+            "Can you share information about Cloud Management service",
+            "Want to know about the Cloud Management service",
+            "What is Cloud Management?",
+            "which are the platform you are using for cloud management"
+         ],
+         "responses":[
+            "Cloud management is the process of maintaining oversight and administrative control of \ncloud computing products and services, whether deployed in public, private, or hybrid cloud environments. \nThe practice of cloud management combines different software products and technologies together to provide a cohesive management strategy and process."
+         ]
+      },
+      {
+         "tag": "Cloud Migration",
+         "patterns":[
+          "Can you tell me more about Cloud Migration",
+            "Can you share information about Cloud Migration service",
+            "Want to know about the Cloud Migration service",
+            "What is Cloud Migration?"
+         ],
+         "responses":[
+            "Cloud migrations are not just a quick lift-shift your current infrastructure to the Cloud, \nit needs to follow a certain set of processes to achieve the successful migration to any cloud. \nWe at 1clouditsolutions Our experts have helped companies to successfully migrate their infrastructure to Cloud without any disruption and they make sure it is fast, \ncost-optimized, and also they are efficient in setting up automation processes to take full advantage of the Cloud."
+         ]
+      },
+      {
+         "tag": "Cloud Security",
+         "patterns":[
+          "Can you tell me more about Cloud Security",
+            "Can you share information about Cloud Security service",
+            "Want to know about the Cloud Security service",
+            "What is Cloud Security?",
+            "Tell me something more about Cloud Security"
+         ],
+         "responses":[
+            "Cloud computing is the delivery of hosted services, including software, hardware, and storage, over the Internet. \nThe benefits of rapid deployment, flexibility, low up-front costs, and scalability, have made cloud computing virtually universal among organizations of all sizes, often as part of a hybrid/multi-cloud infrastructure architecture."
+         ]
+      },
+      {
+         "tag": "Cloud Consulting",
+         "patterns":[
+          "Can you tell me more about Cloud Consulting",
+            "Can you share information about Cloud Consulting service",
+            "Want to know about the Cloud Consulting service",
+            "What is Cloud Consulting?"
+         ],
+         "responses":[
+            "Spark Lync Technologies provides consulting, migration, and management services for the largest public cloud platforms in the world, \noffering managed services for AWS. \nWe empower companies to realize the full potential of the cloud, letting them leverage our expertise, tools, \n, and experience to address their business requirements."
+         ]
+      },
+      {
+         "tag": "Careers",
+         "patterns":[
+          "Can you tell me more about Careers",
+            "What are your hours?",
+            "When are you guys open?",
+            "What are your hours of operation?",
+            "How can I join the organization?",
+            "Is there any hiring going on?",
+            "Which are the position open now?",
+            "Do you hire fresher or experience?"
+         ],
+         "responses":[
+            "Thank you for your interest in Curio Technologies. \nAt this point we have no positions open, however, we request you to send us your resume to info@curiosofttech.com \n We will certainly get back to you at the earliest."
+         ]
+      },
+      {
+         "tag": "goodbye",
+         "patterns":[
+            "See you later",
+            "Goodbye",
+            "I am leaving",
+            "Have a Good Day",
+            "bye",
+            "see ya",
+            "See you later, bye."
+         ],
+         "responses":[
+            "Sad to see you go :(",
+            "Talk to you later",
+            "Goodbye"
+         ]
+      },
+      {
+         "tag": "invalid",
+         "patterns":[
+            "",
+            "gvsd",
+            "asbhk"
+         ],
+         "responses":[
+            "Sorry, can't understand you",
+            "Please give me more info",
+            "Not sure I understand"
+         ]
+      },
+      {
+         "tag": "Thanks",
+         "patterns":[
+            "Thanks",
+            "Thank you",
+            "That's helpful",
+            "Awesome, thanks",
+            "Thanks for helping me",
+            "I appreciate your help, thanks.",
+            "Thanks for your time."
+         ],
+         "responses":[
+            "Happy to help!",
+            "Any time!",
+            "My pleasure"
+         ]
+      }
+   ]
+ }
+ 
