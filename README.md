@@ -1,1 +1,1 @@
-# AskMe-an-AI-chatbot-for-IT-services
+# AskMe an AI chatbot for IT services
